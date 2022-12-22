@@ -7,6 +7,7 @@ some function sugar to go-developer
 
 欢迎提pr共建这个库,功在当天,利在春秋呀
 
-目前已实现: 
 
-InArray(val,array) 判断单个值是否在某个数组或切片中,是则返回下标,否则返回-1
+## 目前已实现: 
+
+### InArray(val,array) 判断单个值是否在某个数组或切片中,是则返回下标,否则返回-1
