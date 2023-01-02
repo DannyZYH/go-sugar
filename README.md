@@ -1,4 +1,4 @@
-# go_func_sugar
+# go_sugar
 some function sugar to go-developer
 
 一些语法糖给到go开发者,以实现开发时更加顺畅
