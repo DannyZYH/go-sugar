@@ -1,3 +1,4 @@
+
 # go-sugar
 
 some function sugar to go-developer
